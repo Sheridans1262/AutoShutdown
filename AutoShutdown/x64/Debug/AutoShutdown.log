@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\User\source\repos\AutoShutdown\AutoShutdown\main.cpp(16,26): warning C4101: ex: неиспользованная локальная переменная
+  timer.cpp
+  Создание кода...
+  AutoShutdown.vcxproj -> C:\Users\User\source\repos\AutoShutdown\x64\Debug\AutoShutdown.exe
