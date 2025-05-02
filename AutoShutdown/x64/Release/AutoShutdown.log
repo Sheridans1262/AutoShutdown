@@ -1,8 +1,1 @@
-﻿  main.cpp
-C:\Users\User\source\repos\AutoShutdown\AutoShutdown\main.cpp(21,26): warning C4101: ex: неиспользованная локальная переменная
-  Создание кода
-  8 of 1960 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    4 functions had inline decision re-evaluated but remain unchanged
-  Создание кода завершено
-  AutoShutdown.vcxproj -> C:\Users\User\source\repos\AutoShutdown\x64\Release\AutoShutdown.exe
+﻿  AutoShutdown.vcxproj -> C:\Users\User\source\repos\AutoShutdown\x64\Release\AutoShutdown.exe

@@ -1,4 +1,4 @@
-#include "shutdownUtils.h"; 
+#include "shutdownUtils.h"
 
 BOOL SystemShutdown(LPTSTR lpMsg, int seconds)
 {

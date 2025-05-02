@@ -1,5 +1,7 @@
 ﻿  main.cpp
-C:\Users\User\source\repos\AutoShutdown\AutoShutdown\main.cpp(16,26): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\User\source\repos\AutoShutdown\AutoShutdown\main.cpp(15,104): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  shutdownUtils.cpp
   timer.cpp
+  wcharUtils.cpp
   Создание кода...
   AutoShutdown.vcxproj -> C:\Users\User\source\repos\AutoShutdown\x64\Debug\AutoShutdown.exe

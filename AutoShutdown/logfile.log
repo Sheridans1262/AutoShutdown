@@ -1,0 +1,18 @@
+2025-05-01 13:51:47 - 0: Timer instance initialized
+2025-05-01 13:51:47 - 0: Start LoadEndTimeFromFile
+2025-05-01 13:51:47 - 2: Settings file AutoShutdown.ini does not exists.
+2025-05-01 13:51:47 - 0: Begin StartTimer
+2025-05-01 13:51:47 - 0: Current time: 13:51:47.0000000 01.05.2025, set timer for 22:00:00.0000000 01.05.2025
+2025-05-01 13:51:47 - 0: Shutdown in 08:08:13
+2025-05-01 13:55:56 - 0: Timer instance initialized
+2025-05-01 13:55:56 - 0: Start LoadEndTimeFromFile
+2025-05-01 13:55:56 - 2: Settings file AutoShutdown.ini does not exists.
+2025-05-01 13:55:56 - 0: Begin StartTimer
+2025-05-01 13:55:56 - 0: Current time: 13:55:56.0000000 01.05.2025, set timer for 22:00:00.0000000 01.05.2025
+2025-05-01 13:55:56 - 0: Shutdown in 08:04:04
+2025-05-02 08:52:14 - 0: Timer instance initialized
+2025-05-02 08:52:14 - 0: Start LoadEndTimeFromFile
+2025-05-02 08:52:14 - 2: Settings file AutoShutdown.ini does not exists.
+2025-05-02 08:52:14 - 0: Begin StartTimer
+2025-05-02 08:52:14 - 0: Current time: 08:52:14.0000000 02.05.2025, set timer for 22:00:00.0000000 02.05.2025
+2025-05-02 08:52:14 - 0: Shutdown in 13:07:46

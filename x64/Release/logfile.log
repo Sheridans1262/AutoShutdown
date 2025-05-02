@@ -1,0 +1,18 @@
+2025-04-30 14:52:37 - 0: Timer instance initialized
+2025-04-30 14:52:37 - 0: Start LoadEndTimeFromFile
+2025-04-30 14:52:37 - 0: Time extracted from .ini file: 21:30
+2025-04-30 14:52:37 - 0: Begin StartTimer
+2025-04-30 14:52:37 - 0: Current time: 14:52:37.0000000 30.04.2025, set timer for 21:30:00.0000000 30.04.2025
+2025-04-30 14:52:42 - 0: Shutdown in 06:37:23
+2025-05-02 08:52:34 - 0: Timer instance initialized
+2025-05-02 08:52:34 - 0: Start LoadEndTimeFromFile
+2025-05-02 08:52:34 - 0: Time extracted from .ini file: 23:00
+2025-05-02 08:52:34 - 0: Begin StartTimer
+2025-05-02 08:52:34 - 0: Current time: 08:52:34.0000000 02.05.2025, set timer for 23:00:00.0000000 02.05.2025
+2025-05-02 08:52:34 - 0: Shutdown in 14:07:26
+2025-05-02 08:52:59 - 0: Timer instance initialized
+2025-05-02 08:52:59 - 0: Start LoadEndTimeFromFile
+2025-05-02 08:52:59 - 0: Time extracted from .ini file: 23:00
+2025-05-02 08:52:59 - 0: Begin StartTimer
+2025-05-02 08:52:59 - 0: Current time: 08:52:59.0000000 02.05.2025, set timer for 23:00:00.0000000 02.05.2025
+2025-05-02 08:52:59 - 0: Shutdown in 14:07:01

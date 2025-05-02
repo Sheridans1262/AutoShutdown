@@ -4,13 +4,21 @@
 #include <thread>
 #include <format>	
 #include <iostream>
+#include <filesystem>
+
+#include "logLib.h"
 
 class Timer
 {
 private:
-	std::chrono::system_clock::time_point m_EndTime;
+	const std::string INI_FILE = "AutoShutdown.ini";
+
 	long m_TimeZone;
 public:
-	Timer(std::string a_EndTime);
+	Timer();
+
+	std::chrono::system_clock::time_point SetEndTime(std::string a_EndTime);
+	std::string LoadEndTimeFromFile();
 	void StartTimer();
+	void StartTimer(std::string a_EndTime);
 };

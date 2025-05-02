@@ -105,6 +105,7 @@
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
+      <AdditionalIncludeDirectories>$(SolutionDir)LogLib;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -120,6 +121,7 @@
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
+      <AdditionalIncludeDirectories>$(SolutionDir)LogLib;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -132,10 +134,17 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="shutdownUtils.cpp" />
     <ClCompile Include="timer.cpp" />
+    <ClCompile Include="wcharUtils.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="shutdownUtils.h" />
     <ClInclude Include="timer.h" />
+    <ClInclude Include="wcharUtils.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LogLib\LogLib.vcxproj">
+      <Project>{45e7b3d2-4dae-4265-a8bc-7045d969d2ac}</Project>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
